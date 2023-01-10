@@ -1,5 +1,5 @@
 # vr-company-page
-Reactive website template built for a Virtural reality Company.
+Reactive Website template built for a Virtural reality Company.
 
 Technology used
 
